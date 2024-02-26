@@ -3,4 +3,9 @@
 ## Group Work Members:
 
 Zhuoran Wang,
-Liam Baird
+Liam Baird,
+Sophia Johnson
+
+## Program Descriptions:
+
+Sophia: Takes user input for their name and height. Their height is taken in feet and inches, converted to centimeters, and then printed out in a sentence with a greeting.
